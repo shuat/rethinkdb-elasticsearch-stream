@@ -48,7 +48,7 @@
     "eslint-config-gsandf": "^1.0.0",
     "nock": "^9.2.3",
     "nyc": "^11.1.0",
-    "p-retry": "^1.0.0",
+    "p-retry": "^3.0.1",
     "prettier-eslint-cli": "^4.2.1"
   },
   "dependencies": {
